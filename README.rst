@@ -63,3 +63,7 @@ java or pyjnius and access your local files::
 
   $ ./go javac -version
 
+To run a pyjnius script inside the appliance, simply do this::
+
+  $ ./go python testpy.py
+
