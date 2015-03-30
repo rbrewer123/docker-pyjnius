@@ -27,7 +27,7 @@ Installation
 
 To build the docker image::
 
-  $ docker build -t user/pyjnius https://github.com/rbrewer123/docker-pyjnius
+  $ docker build -t user/pyjnius github.com/rbrewer123/docker-pyjnius
 
 You should replace ``user`` with your own username in all of these
 instructions.  You can see your new image with this command::
