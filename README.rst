@@ -63,4 +63,3 @@ java or pyjnius and access your local files::
 
   $ ./go javac -version
 
-
